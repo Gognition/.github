@@ -39,7 +39,7 @@ Consulta nuestro [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
 
 ## 📬 Contáctanos
 
-- 🌐 Sitio Web: [gognition.pro]([https://www.gognition.pro](https://www.gognition.pro/))
+- 🌐 Sitio Web: [gognition.pro](https://www.gognition.pro/)
 - 📧 Email: contacto@harleyzapata.life
 
 ---
